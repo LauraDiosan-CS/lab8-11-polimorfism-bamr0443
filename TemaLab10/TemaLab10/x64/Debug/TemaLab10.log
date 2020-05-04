@@ -1,0 +1,57 @@
+﻿  Garnitura.cpp
+  GarnituraMarfa.cpp
+  GarnituraPersoane.cpp
+  main.cpp
+  Service.cpp
+D:\Fac\Pr.Or.Ob\tema 10\TemaLab10\TemaLab10\TemaLab10\IRepository.h(34,39): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Fac\Pr.Or.Ob\tema 10\TemaLab10\TemaLab10\TemaLab10\IRepository.h(32): message : while compiling class template member function 'int IRepository<User>::find(T &)'
+          with
+          [
+              T=User
+          ]
+D:\Fac\Pr.Or.Ob\tema 10\TemaLab10\TemaLab10\TemaLab10\Service.cpp(37): message : see reference to function template instantiation 'int IRepository<User>::find(T &)' being compiled
+          with
+          [
+              T=User
+          ]
+D:\Fac\Pr.Or.Ob\tema 10\TemaLab10\TemaLab10\TemaLab10\Service.cpp(37): message : see reference to class template instantiation 'IRepository<User>' being compiled
+  TestGarnitura.cpp
+  TestRepo.cpp
+D:\Fac\Pr.Or.Ob\tema 10\TemaLab10\TemaLab10\TemaLab10\IRepository.h(34,39): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Fac\Pr.Or.Ob\tema 10\TemaLab10\TemaLab10\TemaLab10\IRepository.h(32): message : while compiling class template member function 'int IRepository<T>::find(T &)'
+          with
+          [
+              T=GarnituraPersoane
+          ]
+D:\Fac\Pr.Or.Ob\tema 10\TemaLab10\TemaLab10\TemaLab10\TestRepo.cpp(17): message : see reference to function template instantiation 'int IRepository<T>::find(T &)' being compiled
+          with
+          [
+              T=GarnituraPersoane
+          ]
+D:\Fac\Pr.Or.Ob\tema 10\TemaLab10\TemaLab10\TemaLab10\RepositoryFile.h(4): message : see reference to class template instantiation 'IRepository<T>' being compiled
+          with
+          [
+              T=GarnituraPersoane
+          ]
+D:\Fac\Pr.Or.Ob\tema 10\TemaLab10\TemaLab10\TemaLab10\RepositoryFileCSV.h(8): message : see reference to class template instantiation 'RepositoryFile<T>' being compiled
+          with
+          [
+              T=GarnituraPersoane
+          ]
+D:\Fac\Pr.Or.Ob\tema 10\TemaLab10\TemaLab10\TemaLab10\TestRepo.cpp(11): message : see reference to class template instantiation 'RepositoryFileCSV<GarnituraPersoane>' being compiled
+D:\Fac\Pr.Or.Ob\tema 10\TemaLab10\TemaLab10\TemaLab10\IRepository.h(58,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Fac\Pr.Or.Ob\tema 10\TemaLab10\TemaLab10\TemaLab10\IRepository.h(57): message : while compiling class template member function 'int IRepository<T>::size(void)'
+          with
+          [
+              T=GarnituraPersoane
+          ]
+D:\Fac\Pr.Or.Ob\tema 10\TemaLab10\TemaLab10\TemaLab10\TestRepo.cpp(13): message : see reference to function template instantiation 'int IRepository<T>::size(void)' being compiled
+          with
+          [
+              T=GarnituraPersoane
+          ]
+  UI.cpp
+  User.cpp
+  Utils.cpp
+  Generating Code...
+  TemaLab10.vcxproj -> D:\Fac\Pr.Or.Ob\tema 10\TemaLab10\TemaLab10\x64\Debug\TemaLab10.exe
